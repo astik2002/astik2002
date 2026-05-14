@@ -1,0 +1,38 @@
+<svg width="980" height="260" viewBox="0 0 980 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Astik GitHub Stats</title>
+  <desc id="desc">Static GitHub profile stats card for Astik.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="980" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="980" height="260" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="978" height="258" rx="23" stroke="#334155" stroke-width="2"/>
+  <text x="40" y="58" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">GitHub Snapshot</text>
+  <text x="40" y="92" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Focused on Java backend development, Spring Boot APIs, ETL, and full-stack learning.</text>
+
+  <g transform="translate(40 130)">
+    <rect width="200" height="82" rx="18" fill="#020617" stroke="#1E293B"/>
+    <text x="24" y="34" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Public Repos</text>
+    <text x="24" y="66" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">3+</text>
+  </g>
+
+  <g transform="translate(270 130)">
+    <rect width="200" height="82" rx="18" fill="#020617" stroke="#1E293B"/>
+    <text x="24" y="34" fill="#F97316" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Core Stack</text>
+    <text x="24" y="66" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Java</text>
+  </g>
+
+  <g transform="translate(500 130)">
+    <rect width="200" height="82" rx="18" fill="#020617" stroke="#1E293B"/>
+    <text x="24" y="34" fill="#22C55E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Current Build</text>
+    <text x="24" y="66" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Spring</text>
+  </g>
+
+  <g transform="translate(730 130)">
+    <rect width="210" height="82" rx="18" fill="#020617" stroke="#1E293B"/>
+    <text x="24" y="34" fill="#A78BFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Learning Path</text>
+    <text x="24" y="66" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Full Stack</text>
+  </g>
+</svg>

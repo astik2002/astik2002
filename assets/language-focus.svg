@@ -1,0 +1,29 @@
+<svg width="980" height="220" viewBox="0 0 980 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Astik Language Focus</title>
+  <desc id="desc">Technology focus card for Astik.</desc>
+  <rect width="980" height="220" rx="24" fill="#0F172A"/>
+  <rect x="1" y="1" width="978" height="218" rx="23" stroke="#334155" stroke-width="2"/>
+  <text x="40" y="54" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="800">Technology Focus</text>
+  <text x="40" y="86" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">The stack I work with most often across backend, frontend, and data workflows.</text>
+
+  <g transform="translate(40 122)">
+    <rect width="172" height="50" rx="16" fill="#451A03" stroke="#FB923C" stroke-opacity="0.5"/>
+    <text x="54" y="32" fill="#FED7AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">Java</text>
+  </g>
+  <g transform="translate(232 122)">
+    <rect width="172" height="50" rx="16" fill="#052E16" stroke="#4ADE80" stroke-opacity="0.5"/>
+    <text x="33" y="32" fill="#DCFCE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">Spring Boot</text>
+  </g>
+  <g transform="translate(424 122)">
+    <rect width="172" height="50" rx="16" fill="#082F49" stroke="#38BDF8" stroke-opacity="0.5"/>
+    <text x="54" y="32" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">React</text>
+  </g>
+  <g transform="translate(616 122)">
+    <rect width="172" height="50" rx="16" fill="#312E81" stroke="#A78BFA" stroke-opacity="0.5"/>
+    <text x="48" y="32" fill="#EDE9FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">Python</text>
+  </g>
+  <g transform="translate(808 122)">
+    <rect width="132" height="50" rx="16" fill="#1E293B" stroke="#CBD5E1" stroke-opacity="0.35"/>
+    <text x="43" y="32" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">SQL</text>
+  </g>
+</svg>

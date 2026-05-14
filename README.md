@@ -95,12 +95,11 @@ public class Astik {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astik2002&theme=tokyonight" alt="Astik GitHub profile summary" />
+  <img src="assets/github-stats.svg" alt="Astik GitHub stats" width="100%" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astik2002&theme=tokyonight" alt="Astik repositories by language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=astik2002&theme=tokyonight" alt="Astik GitHub stats" />
+  <img src="assets/language-focus.svg" alt="Astik technology focus" width="100%" />
 </p>
 
 ## Current Focus
