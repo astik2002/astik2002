@@ -27,13 +27,14 @@
     <text x="29" y="76" fill="#F8FAFC" font-family="Consolas, Menlo, monospace" font-size="50" font-weight="700">{ }</text>
   </g>
 
-  <g transform="translate(238 74)">
-    <text fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Hi, I'm Astik</text>
+  <g transform="translate(238 70)">
+    <text fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">Hi, I'm Astik</text>
     <text y="58" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Java Developer at Mejora Infotech</text>
-    <text y="108" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Building backend systems, Spring Boot APIs, ETL workflows, and React interfaces.</text>
+    <text y="110" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">Backend systems, Spring Boot APIs, ETL workflows,</text>
+    <text y="138" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">database logic, and React interfaces.</text>
   </g>
 
-  <g transform="translate(238 244)">
+  <g transform="translate(238 270)">
     <rect width="116" height="38" rx="19" fill="#F97316" fill-opacity="0.14" stroke="#FB923C" stroke-opacity="0.5"/>
     <text x="28" y="25" fill="#FED7AA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Java</text>
     <rect x="132" width="154" height="38" rx="19" fill="#22C55E" fill-opacity="0.14" stroke="#4ADE80" stroke-opacity="0.5"/>
@@ -46,17 +47,17 @@
     <text x="604" y="25" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">JDBC</text>
   </g>
 
-  <g transform="translate(870 86)" filter="url(#shadow)">
-    <rect width="300" height="230" rx="26" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
-    <text x="28" y="48" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Current Focus</text>
-    <rect x="28" y="76" width="244" height="36" rx="12" fill="#020617" fill-opacity="0.56"/>
-    <circle cx="48" cy="94" r="6" fill="#22C55E"/>
-    <text x="64" y="100" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Loan based Spring Boot app</text>
-    <rect x="28" y="126" width="244" height="36" rx="12" fill="#020617" fill-opacity="0.56"/>
-    <circle cx="48" cy="144" r="6" fill="#38BDF8"/>
-    <text x="64" y="150" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">ETL and backend workflows</text>
-    <rect x="28" y="176" width="244" height="36" rx="12" fill="#020617" fill-opacity="0.56"/>
-    <circle cx="48" cy="194" r="6" fill="#F97316"/>
-    <text x="64" y="200" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Java APIs and database logic</text>
+  <g transform="translate(888 56)" filter="url(#shadow)">
+    <rect width="298" height="208" rx="24" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="26" y="42" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Current Focus</text>
+    <rect x="26" y="68" width="246" height="34" rx="12" fill="#020617" fill-opacity="0.62"/>
+    <circle cx="46" cy="85" r="6" fill="#22C55E"/>
+    <text x="62" y="91" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Loan based Spring Boot app</text>
+    <rect x="26" y="116" width="246" height="34" rx="12" fill="#020617" fill-opacity="0.62"/>
+    <circle cx="46" cy="133" r="6" fill="#38BDF8"/>
+    <text x="62" y="139" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">ETL and backend workflows</text>
+    <rect x="26" y="164" width="246" height="34" rx="12" fill="#020617" fill-opacity="0.62"/>
+    <circle cx="46" cy="181" r="6" fill="#F97316"/>
+    <text x="62" y="187" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">Java APIs and database logic</text>
   </g>
 </svg>
